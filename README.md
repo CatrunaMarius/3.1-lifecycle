@@ -1,3 +1,7 @@
+React lifecycles diagram
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
